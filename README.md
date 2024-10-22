@@ -12,6 +12,7 @@ The following architecture outlines the integration of AWS services for data str
 
 ![System Architecture](https://github.com/LunaticWrath07/cloud/raw/master/diagrams/system_arch.png)
 
+
 ---
 
 ## Use Case: Flu Outbreak Monitoring
