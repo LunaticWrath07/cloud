@@ -1,0 +1,166 @@
+﻿"longitude","latitude","name_of_facility","location_id (COUNT)"
+-74.2099,40.8156,"Hackensack Meridian Health Mountainside Medical Center",62
+-74.1377,40.0661,"Hackensack Meridian Health Ocean Medical Center",49
+-74.7661,40.3084,"Capital Health Medical Center - Hopewell",45
+-75.9613,40.3359,"Reading Hospital",43
+-74.2732,40.5075,"Hackensack Meridian Health Raritan Bay Medical Center",43
+-74.8855,40.1785,"St. Mary Medical Center",42
+-73.8072,41.0718,"Westchester Medical Center",40
+-74.4506,40.4957,"Saint Peter's University Hospital",39
+-74.2815,39.7456,"Hackensack Meridian Health Southern Ocean Medical Center",38
+-74.7904,39.9734,"Virtua Memorial Hospital",37
+-75.0214,39.485,"Inspira Medical Center Vineland",36
+-73.7845,43.0831,"Saratoga Hospital",36
+-75.8108,41.2458,"Geisinger Wyoming Valley Medical Center",35
+-74.8524,40.5214,"Hunterdon Medical Center",35
+-74.8678,40.0278,"Virtua Willingboro Hospital",33
+-74.3556,40.7145,"Overlook Medical Center",33
+-74.3396,40.5715,"Hackensack Meridian Health JFK Medical Center",32
+-74.2938,40.2595,"CentraState Medical Center",32
+-74.054,41.0156,"Hackensack Meridian Health Pascack Valley Medical Center",32
+-74.0117,40.792,"Hackensack Meridian Health Palisades Medical Center",32
+-76.1488,43.0515,"St. Joseph's Hospital Health Center",31
+-74.4815,40.8884,"Saint Clare's Denville Hospital",31
+-75.095,39.9267,"Virtua Our Lady of Lourdes Hospital",30
+-74.2157,40.6648,"Trinitas Regional Medical Center",30
+-74.1987,40.4392,"Hackensack Meridian Health Bayshore Medical Center",29
+-76.7281,39.9622,"WellSpan York Hospital",27
+-74.9313,39.8456,"Virtua Voorhees Hospital",27
+-76.3067,40.1572,"UPMC Pinnacle Lititz",26
+-73.9321,41.7006,"Vassar Brothers Medical Center",25
+-77.1364,42.9689,"Clifton Springs Hospital & Clinic",24
+-76.1804,42.6006,"Cortland Regional Medical Center",24
+-74.1992,40.7114,"Newark Beth Israel Medical Center",24
+-73.9395,42.8145,"Ellis Hospital",24
+-74.0479,40.2204,"Hackensack Meridian Health Jersey Shore University Medical Center",23
+-78.8676,42.8989,"Roswell Park Comprehensive Cancer Center",22
+-76.5072,43.4556,"Oswego Hospital",22
+-75.3789,40.6356,"St. Luke's University Hospital - Bethlehem Campus",22
+-75.2333,43.0942,"Faxton St. Luke's Healthcare",22
+-74.2765,40.8884,"Chilton Medical Center",22
+-74.1906,40.7422,"University Hospital",22
+-77.6983,43.2047,"Unity Hospital",21
+-77.0138,41.2459,"UPMC Susquehanna Williamsport",21
+-76.8867,40.262,"UPMC Harrisburg",21
+-76.6066,40.9684,"Geisinger Medical Center",21
+-76.5152,42.4639,"Cayuga Medical Center",21
+-75.0904,40.0728,"Fox Chase Cancer Center",21
+-74.1518,41.1156,"Good Samaritan Hospital",21
+-72.9151,40.7762,"Brookhaven Memorial Hospital Medical Center",21
+-80.2456,40.1767,"Washington Hospital",20
+-78.4297,42.0778,"Olean General Hospital",20
+-74.9814,44.6667,"Canton-Potsdam Hospital",20
+-74.466,40.7879,"Morristown Medical Center",20
+-73.7017,40.7726,"North Shore University Hospital",20
+-73.6621,40.6646,"Mercy Medical Center",20
+-76.6746,40.2654,"Penn State Health Milton S. Hershey Medical Center",19
+-75.9773,40.3662,"Penn State Health St. Joseph Medical Center",19
+-75.5152,40.1297,"Phoenixville Hospital",19
+-75.2605,40.0361,"Main Line Health Lankenau Medical Center",19
+-75.1524,40.0068,"Temple University Hospital",19
+-75.1304,40.3095,"Doylestown Hospital",19
+-74.1921,42.9653,"St. Mary's Healthcare",19
+-74.0479,40.2204,"Jersey Shore University Medical Center",19
+-73.9625,40.7738,"Lenox Hill Hospital",19
+-80.0851,42.1336,"UPMC Hamot",18
+-77.0138,41.2459,"UPMC Williamsport",18
+-76.5147,41.9853,"Guthrie Robert Packer Hospital",18
+-76.4522,41.0031,"Geisinger Bloomsburg Hospital",18
+-76.3063,40.0421,"Lancaster General Hospital",18
+-75.6095,39.9608,"Chester County Hospital",18
+-75.4838,40.0428,"Paoli Hospital",18
+-75.1341,40.1217,"Abington Hospital - Jefferson Health",18
+-74.9214,39.8853,"Virtua Marlton Hospital",18
+-74.4504,40.4862,"Robert Wood Johnson University Hospital",18
+-73.9682,40.6408,"Maimonides Medical Center",18
+-73.8988,40.9297,"St. Joseph's Medical Center",18
+-73.6718,41.4239,"Putnam Hospital Center",18
+-73.2479,40.7234,"Good Samaritan Hospital Medical Center",18
+-73.1192,40.9467,"Mather Hospital",18
+-80.0604,40.3812,"St. Clair Hospital",17
+-79.9608,40.4474,"UPMC Presbyterian",17
+-79.9568,40.4666,"UPMC Children's Hospital of Pittsburgh",17
+-79.8953,40.8617,"Butler Memorial Hospital",17
+-78.8677,42.8994,"Buffalo General Medical Center",17
+-75.9094,43.9747,"Samaritan Medical Center",17
+-75.6547,43.0778,"Oneida Healthcare",17
+-75.6097,43.9747,"Carthage Area Hospital",17
+-75.6095,39.9608,"Penn Medicine Chester County Hospital",17
+-75.434,40.1842,"Einstein Medical Center Montgomery",17
+-75.2836,40.2417,"Abington - Lansdale Hospital",17
+-74.4815,40.8884,"Saint Clare's Hospital",17
+-74.0574,40.8834,"Hackensack University Medical Center",17
+-73.9726,40.9978,"Englewood Hospital and Medical Center",17
+-73.8662,41.1342,"Phelps Hospital",17
+-73.644,43.3095,"Glens Falls Hospital",17
+-80.0037,40.4568,"Allegheny General Hospital",16
+-79.7247,39.9006,"Uniontown Hospital",16
+-78.8706,42.9653,"Kenmore Mercy Hospital",16
+-77.6611,39.9375,"Chambersburg Hospital",16
+-76.8236,42.0853,"Arnot Ogden Medical Center",16
+-75.3909,40.6431,"Lehigh Valley Hospital - Muhlenberg",16
+-75.3789,40.6356,"St. Luke's University Hospital - Bethlehem",16
+-74.0813,40.3639,"Hackensack Meridian Health Riverview Medical Center",16
+-73.119,40.9081,"Stony Brook University Hospital",16
+-80.347,41.0031,"UPMC Jameson",15
+-80.1514,41.6414,"Meadville Medical Center",15
+-79.5503,40.3114,"Excela Health Westmoreland Hospital",15
+-78.3944,40.5205,"UPMC Altoona",15
+-75.5198,40.5891,"Lehigh Valley Hospital - Cedar Crest",15
+-75.4781,40.6023,"St. Luke's Hospital - Allentown Campus",15
+-75.1198,39.9434,"Cooper University Hospital",15
+-74.0062,40.8895,"Holy Name Medical Center",15
+-73.9877,40.2967,"Monmouth Medical Center",15
+-73.9739,40.7421,"NYU Langone Health",15
+-73.9576,40.7642,"Memorial Sloan Kettering Cancer Center",15
+-73.7723,42.6526,"Albany Medical Center",15
+-73.2456,40.7248,"Northwell Health Southside Hospital",15
+-73.2456,40.7248,"Southside Hospital",15
+-78.8314,42.9256,"Erie County Medical Center",14
+-78.8086,41.6639,"UPMC Kane",14
+-76.1374,43.0442,"Crouse Hospital",14
+-75.7903,40.0103,"Brandywine Hospital",14
+-75.4953,43.7853,"Lewis County General Hospital",14
+-75.3172,40.0228,"Bryn Mawr Hospital",14
+-75.233,43.085,"St. Elizabeth Medical Center",14
+-74.9243,42.7514,"Bassett Medical Center",14
+-74.7868,39.992,"Virtua Mount Holly Hospital",14
+-74.6135,40.5681,"Robert Wood Johnson University Hospital Somerset",14
+-74.3437,43.0261,"Nathan Littauer Hospital",14
+-74.1218,40.9795,"Valley Hospital",14
+-74.0872,40.5835,"Staten Island University Hospital",14
+-73.9198,41.0912,"Nyack Hospital",14
+-79.9609,40.4374,"UPMC Magee-Womens Hospital",13
+-78.9217,40.3092,"Conemaugh Memorial Medical Center",13
+-76.1374,43.0401,"SUNY Upstate Medical University",13
+-75.6512,41.4117,"Geisinger Community Medical Center",13
+-75.4867,44.7042,"Claxton-Hepburn Medical Center",13
+-75.431,39.912,"Riddle Hospital",13
+-75.3672,39.8557,"Crozer-Chester Medical Center",13
+-75.1974,41.0058,"Lehigh Valley Hospital - Pocono",13
+-75.1571,39.9489,"Thomas Jefferson University Hospital",13
+-74.1717,40.7422,"Saint Michael's Medical Center",13
+-73.9726,40.9978,"Englewood Health",13
+-73.684,40.7762,"St. Francis Hospital",13
+-73.4647,44.6995,"Champlain Valley Physicians Hospital",13
+-73.269,40.8523,"St. Catherine of Siena Medical Center",13
+-77.6245,43.1226,"Strong Memorial Hospital",12
+-77.5711,40.5956,"Geisinger Lewistown Hospital",12
+-76.9208,40.2392,"Penn State Health Holy Spirit Medical Center",12
+-76.8889,40.9639,"Evangelical Community Hospital",12
+-74.7676,40.227,"Capital Health Regional Medical Center",12
+-74.4223,41.4467,"Orange Regional Medical Center",12
+-73.7259,41.1956,"Northern Westchester Hospital",12
+-73.7079,40.7534,"Long Island Jewish Medical Center",12
+-77.6099,43.1864,"Rochester General Hospital",11
+-75.1452,40.0374,"Einstein Medical Center Philadelphia",11
+-73.9552,40.7644,"New York-Presbyterian Hospital",11
+-73.0659,40.9467,"St. Charles Hospital",11
+-75.9588,42.1156,"United Health Services Hospitals",10
+-74.4324,39.3642,"AtlantiCare Regional Medical Center",10
+-73.8784,40.8802,"Montefiore Medical Center",10
+-74.3182,40.7687,"Saint Barnabas Medical Center",9
+-73.4265,40.8731,"Huntington Hospital",9
+-74.1315,44.3236,"Adirondack Medical Center",8
+-75.1932,39.9469,"Children's Hospital of Philadelphia",7
+-73.9526,40.79,"Mount Sinai Hospital",7

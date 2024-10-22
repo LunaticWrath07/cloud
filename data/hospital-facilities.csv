@@ -1,0 +1,201 @@
+location_id,name_of_facility,latitude,longitude,state_code,zipcode
+1,Mount Sinai Hospital,40.7900,-73.9526,NY,10029
+2,Newark Beth Israel Medical Center,40.7114,-74.1992,NJ,07112
+3,UPMC Presbyterian,40.4474,-79.9608,PA,15213
+4,NYU Langone Health,40.7421,-73.9739,NY,10016
+5,Hackensack University Medical Center,40.8834,-74.0574,NJ,07601
+6,Penn State Health Milton S. Hershey Medical Center,40.2654,-76.6746,PA,17033
+7,Buffalo General Medical Center,42.8994,-78.8677,NY,14203
+8,Cooper University Hospital,39.9434,-75.1198,NJ,08103
+9,Temple University Hospital,40.0068,-75.1524,PA,19140
+10,Westchester Medical Center,41.0718,-73.8072,NY,10595
+11,Morristown Medical Center,40.7879,-74.4660,NJ,07960
+12,Geisinger Medical Center,40.9684,-76.6066,PA,17822
+13,Strong Memorial Hospital,43.1226,-77.6245,NY,14642
+14,Capital Health Medical Center - Hopewell,40.3084,-74.7661,NJ,08534
+15,Reading Hospital,40.3359,-75.9613,PA,19611
+16,North Shore University Hospital,40.7726,-73.7017,NY,11030
+17,Virtua Our Lady of Lourdes Hospital,39.9267,-75.0950,NJ,08103
+18,Lehigh Valley Hospital - Cedar Crest,40.5891,-75.5198,PA,18103
+19,Erie County Medical Center,42.9256,-78.8314,NY,14215
+20,Saint Barnabas Medical Center,40.7687,-74.3182,NJ,07039
+21,Albany Medical Center,42.6526,-73.7723,NY,12208
+22,Robert Wood Johnson University Hospital,40.4862,-74.4504,NJ,08901
+23,UPMC Magee-Womens Hospital,40.4374,-79.9609,PA,15213
+24,Stony Brook University Hospital,40.9081,-73.1190,NY,11794
+25,AtlantiCare Regional Medical Center,39.3642,-74.4324,NJ,08401
+26,Thomas Jefferson University Hospital,39.9489,-75.1571,PA,19107
+27,Roswell Park Comprehensive Cancer Center,42.8989,-78.8676,NY,14263
+28,Englewood Hospital and Medical Center,40.9978,-73.9726,NJ,07631
+29,Fox Chase Cancer Center,40.0728,-75.0904,PA,19111
+30,New York-Presbyterian Hospital,40.7644,-73.9552,NY,10065
+31,Jersey Shore University Medical Center,40.2204,-74.0479,NJ,07753
+32,Children's Hospital of Philadelphia,39.9469,-75.1932,PA,19104
+33,Maimonides Medical Center,40.6408,-73.9682,NY,11219
+34,Hunterdon Medical Center,40.5214,-74.8524,NJ,08822
+35,UPMC Children's Hospital of Pittsburgh,40.4666,-79.9568,PA,15224
+36,Memorial Sloan Kettering Cancer Center,40.7642,-73.9576,NY,10065
+37,Hackensack Meridian Health JFK Medical Center,40.5715,-74.3396,NJ,08820
+38,Lancaster General Hospital,40.0421,-76.3063,PA,17603
+39,Lenox Hill Hospital,40.7738,-73.9625,NY,10075
+40,Valley Hospital,40.9795,-74.1218,NJ,07450
+41,St. Luke's University Hospital - Bethlehem,40.6356,-75.3789,PA,18015
+42,Montefiore Medical Center,40.8802,-73.8784,NY,10467
+43,CentraState Medical Center,40.2595,-74.2938,NJ,07726
+44,Einstein Medical Center Philadelphia,40.0374,-75.1452,PA,19141
+45,Long Island Jewish Medical Center,40.7534,-73.7079,NY,11040
+46,Overlook Medical Center,40.7145,-74.3556,NJ,07901
+47,Penn State Health St. Joseph Medical Center,40.3662,-75.9773,PA,19603
+48,SUNY Upstate Medical University,43.0401,-76.1374,NY,13210
+49,Trinitas Regional Medical Center,40.6648,-74.2157,NJ,07202
+50,WellSpan York Hospital,39.9622,-76.7281,PA,17403
+51,Vassar Brothers Medical Center,41.7006,-73.9321,NY,12601
+52,University Hospital,40.7422,-74.1906,NJ,07103
+53,Allegheny General Hospital,40.4568,-80.0037,PA,15212
+54,Good Samaritan Hospital Medical Center,40.7234,-73.2479,NY,11795
+55,Inspira Medical Center Vineland,39.4850,-75.0214,NJ,08360
+56,Main Line Health Lankenau Medical Center,40.0361,-75.2605,PA,19096
+57,Rochester General Hospital,43.1864,-77.6099,NY,14621
+58,Hackensack Meridian Health Raritan Bay Medical Center,40.5075,-74.2732,NJ,08861
+59,St. Mary Medical Center,40.1785,-74.8855,PA,19047
+60,Northwell Health Southside Hospital,40.7248,-73.2456,NY,11706
+61,Capital Health Regional Medical Center,40.2270,-74.7676,NJ,08638
+62,UPMC Hamot,42.1336,-80.0851,PA,16550
+63,St. Joseph's Hospital Health Center,43.0515,-76.1488,NY,13203
+64,Virtua Voorhees Hospital,39.8456,-74.9313,NJ,08043
+65,Abington Hospital - Jefferson Health,40.1217,-75.1341,PA,19001
+66,Staten Island University Hospital,40.5835,-74.0872,NY,10305
+67,Hackensack Meridian Health Ocean Medical Center,40.0661,-74.1377,NJ,08724
+68,Reading Hospital,40.3359,-75.9613,PA,19611
+69,Westchester Medical Center,41.0718,-73.8072,NY,10595
+70,Saint Peter's University Hospital,40.4957,-74.4506,NJ,08901
+71,Lehigh Valley Hospital - Muhlenberg,40.6431,-75.3909,PA,18017
+72,Saratoga Hospital,43.0831,-73.7845,NY,12866
+73,Monmouth Medical Center,40.2967,-73.9877,NJ,07740
+74,Crozer-Chester Medical Center,39.8557,-75.3672,PA,19013
+75,Brookhaven Memorial Hospital Medical Center,40.7762,-72.9151,NY,11772
+76,Hackensack Meridian Health Mountainside Medical Center,40.8156,-74.2099,NJ,07042
+77,St. Luke's Hospital - Allentown Campus,40.6023,-75.4781,PA,18104
+78,St. Francis Hospital,40.7762,-73.6840,NY,11010
+79,Virtua Memorial Hospital,39.9734,-74.7904,NJ,08015
+80,UPMC Williamsport,41.2459,-77.0138,PA,17701
+81,Mercy Medical Center,40.6646,-73.6621,NY,11570
+82,Hackensack Meridian Health Palisades Medical Center,40.7920,-74.0117,NJ,07650
+83,Geisinger Wyoming Valley Medical Center,41.2458,-75.8108,PA,18702
+84,Huntington Hospital,40.8731,-73.4265,NY,11743
+85,Saint Clare's Denville Hospital,40.8884,-74.4815,NJ,07834
+86,St. Clair Hospital,40.3812,-80.0604,PA,15243
+87,Champlain Valley Physicians Hospital,44.6995,-73.4647,NY,12901
+88,Hackensack Meridian Health Bayshore Medical Center,40.4392,-74.1987,NJ,07735
+89,Bryn Mawr Hospital,40.0228,-75.3172,PA,19010
+90,Crouse Hospital,43.0442,-76.1374,NY,13210
+91,Chilton Medical Center,40.8884,-74.2765,NJ,07440
+92,Butler Memorial Hospital,40.8617,-79.8953,PA,16001
+93,Faxton St. Luke's Healthcare,43.0942,-75.2333,NY,13502
+94,Hackensack Meridian Health Southern Ocean Medical Center,39.7456,-74.2815,NJ,08050
+95,Doylestown Hospital,40.3095,-75.1304,PA,18901
+96,St. Catherine of Siena Medical Center,40.8523,-73.2690,NY,11788
+97,Virtua Willingboro Hospital,40.0278,-74.8678,NJ,08046
+98,Chester County Hospital,39.9608,-75.6095,PA,19380
+99,Kenmore Mercy Hospital,42.9653,-78.8706,NY,14217
+100,Hackensack Meridian Health Pascack Valley Medical Center,41.0156,-74.0540,NJ,07675
+101,St. Joseph's Hospital Health Center,43.0515,-76.1488,NY,13203
+102,Virtua Marlton Hospital,39.8853,-74.9214,NJ,08053
+103,UPMC Altoona,40.5205,-78.3944,PA,16602
+104,Southside Hospital,40.7248,-73.2456,NY,11706
+105,Hackensack Meridian Health Riverview Medical Center,40.3639,-74.0813,NJ,07701
+106,Penn Medicine Chester County Hospital,39.9608,-75.6095,PA,19380
+107,Glens Falls Hospital,43.3095,-73.6440,NY,12801
+108,Saint Michael's Medical Center,40.7422,-74.1717,NJ,07102
+109,Geisinger Community Medical Center,41.4117,-75.6512,PA,18510
+110,Nyack Hospital,41.0912,-73.9198,NY,10960
+111,Virtua Mount Holly Hospital,39.9920,-74.7868,NJ,08060
+112,St. Mary Medical Center,40.1785,-74.8855,PA,19047
+113,Ellis Hospital,42.8145,-73.9395,NY,12308
+114,Holy Name Medical Center,40.8895,-74.0062,NJ,07666
+115,Paoli Hospital,40.0428,-75.4838,PA,19301
+116,St. Elizabeth Medical Center,43.0850,-75.2330,NY,13501
+117,Hackensack Meridian Health Jersey Shore University Medical Center,40.2204,-74.0479,NJ,07753
+118,Lehigh Valley Hospital - Pocono,41.0058,-75.1974,PA,18301
+119,Orange Regional Medical Center,41.4467,-74.4223,NY,10940
+120,Englewood Health,40.9978,-73.9726,NJ,07631
+121,UPMC Harrisburg,40.2620,-76.8867,PA,17101
+122,Unity Hospital,43.2047,-77.6983,NY,14626
+123,Hackensack Meridian Health Ocean Medical Center,40.0661,-74.1377,NJ,08724
+124,St. Luke's University Hospital - Bethlehem Campus,40.6356,-75.3789,PA,18015
+125,Phelps Hospital,41.1342,-73.8662,NY,10591
+126,Robert Wood Johnson University Hospital Somerset,40.5681,-74.6135,NJ,08873
+127,Reading Hospital,40.3359,-75.9613,PA,19611
+128,Good Samaritan Hospital,41.1156,-74.1518,NY,10901
+129,Virtua Our Lady of Lourdes Hospital,39.9267,-75.0950,NJ,08103
+130,Geisinger Wyoming Valley Medical Center,41.2458,-75.8108,PA,18702
+131,Northern Westchester Hospital,41.1956,-73.7259,NY,10549
+132,Hackensack Meridian Health Mountainside Medical Center,40.8156,-74.2099,NJ,07042
+133,WellSpan York Hospital,39.9622,-76.7281,PA,17403
+134,St. Charles Hospital,40.9467,-73.0659,NY,11777
+135,Capital Health Medical Center - Hopewell,40.3084,-74.7661,NJ,08534
+136,Einstein Medical Center Montgomery,40.1842,-75.4340,PA,19403
+137,Samaritan Medical Center,43.9747,-75.9094,NY,13601
+138,Hackensack Meridian Health Pascack Valley Medical Center,41.0156,-74.0540,NJ,07675
+139,UPMC Pinnacle Lititz,40.1572,-76.3067,PA,17543
+140,Mather Hospital,40.9467,-73.1192,NY,11777
+141,Virtua Voorhees Hospital,39.8456,-74.9313,NJ,08043
+142,Abington - Lansdale Hospital,40.2417,-75.2836,PA,19446
+143,Putnam Hospital Center,41.4239,-73.6718,NY,10512
+144,Hackensack Meridian Health Bayshore Medical Center,40.4392,-74.1987,NJ,07735
+145,St. Mary Medical Center,40.1785,-74.8855,PA,19047
+146,Oneida Healthcare,43.0778,-75.6547,NY,13421
+147,CentraState Medical Center,40.2595,-74.2938,NJ,07726
+148,Chambersburg Hospital,39.9375,-77.6611,PA,17201
+149,Olean General Hospital,42.0778,-78.4297,NY,14760
+150,Hackensack Meridian Health Southern Ocean Medical Center,39.7456,-74.2815,NJ,08050
+151,Geisinger Lewistown Hospital,40.5956,-77.5711,PA,17044
+152,Cayuga Medical Center,42.4639,-76.5152,NY,14850
+153,Virtua Memorial Hospital,39.9734,-74.7904,NJ,08015
+154,UPMC Susquehanna Williamsport,41.2459,-77.0138,PA,17701
+155,Arnot Ogden Medical Center,42.0853,-76.8236,NY,14905
+156,Hackensack Meridian Health Palisades Medical Center,40.7920,-74.0117,NJ,07650
+157,Riddle Hospital,39.9120,-75.4310,PA,19063
+158,Saratoga Hospital,43.0831,-73.7845,NY,12866
+159,Saint Clare's Denville Hospital,40.8884,-74.4815,NJ,07834
+160,Penn State Health Holy Spirit Medical Center,40.2392,-76.9208,PA,17011
+161,United Health Services Hospitals,42.1156,-75.9588,NY,13905
+162,Trinitas Regional Medical Center,40.6648,-74.2157,NJ,07202
+163,Evangelical Community Hospital,40.9639,-76.8889,PA,17837
+164,St. Joseph's Medical Center,40.9297,-73.8988,NY,10701
+165,Hackensack Meridian Health JFK Medical Center,40.5715,-74.3396,NJ,08820
+166,Phoenixville Hospital,40.1297,-75.5152,PA,19460
+167,Bassett Medical Center,42.7514,-74.9243,NY,13326
+168,Inspira Medical Center Vineland,39.4850,-75.0214,NJ,08360
+169,Washington Hospital,40.1767,-80.2456,PA,15301
+170,Nathan Littauer Hospital,43.0261,-74.3437,NY,12078
+171,Hunterdon Medical Center,40.5214,-74.8524,NJ,08822
+172,Brandywine Hospital,40.0103,-75.7903,PA,19320
+173,Claxton-Hepburn Medical Center,44.7042,-75.4867,NY,13669
+174,Hackensack Meridian Health Raritan Bay Medical Center,40.5075,-74.2732,NJ,08861
+175,Conemaugh Memorial Medical Center,40.3092,-78.9217,PA,15901
+176,Adirondack Medical Center,44.3236,-74.1315,NY,12946
+177,Saint Peter's University Hospital,40.4957,-74.4506,NJ,08901
+178,UPMC Kane,41.6639,-78.8086,PA,16735
+179,St. Mary's Healthcare,42.9653,-74.1921,NY,12010
+180,Overlook Medical Center,40.7145,-74.3556,NJ,07901
+181,Uniontown Hospital,39.9006,-79.7247,PA,15401
+182,Lewis County General Hospital,43.7853,-75.4953,NY,13367
+183,Chilton Medical Center,40.8884,-74.2765,NJ,07440
+184,Meadville Medical Center,41.6414,-80.1514,PA,16335
+185,Carthage Area Hospital,43.9747,-75.6097,NY,13619
+186,Hackensack Meridian Health Jersey Shore University Medical Center,40.2204,-74.0479,NJ,07753
+187,Excela Health Westmoreland Hospital,40.3114,-79.5503,PA,15601
+188,Cortland Regional Medical Center,42.6006,-76.1804,NY,13045
+189,Virtua Willingboro Hospital,40.0278,-74.8678,NJ,08046
+190,Guthrie Robert Packer Hospital,41.9853,-76.5147,PA,18840
+191,Canton-Potsdam Hospital,44.6667,-74.9814,NY,13676
+192,Hackensack Meridian Health Ocean Medical Center,40.0661,-74.1377,NJ,08724
+193,UPMC Jameson,41.0031,-80.3470,PA,16105
+194,Oswego Hospital,43.4556,-76.5072,NY,13126
+195,Saint Clare's Hospital,40.8884,-74.4815,NJ,07834
+196,Geisinger Bloomsburg Hospital,41.0031,-76.4522,PA,17815
+197,Clifton Springs Hospital & Clinic,42.9689,-77.1364,NY,14432
+198,Hackensack Meridian Health Mountainside Medical Center,40.8156,-74.2099,NJ,07042
+199,Penn Highlands DuBois,41.1189,-78.7597,PA,15801
+200,Jones Memorial Hospital,42.2542,-77.9528,NY,14895
