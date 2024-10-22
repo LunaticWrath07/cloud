@@ -10,7 +10,7 @@ The system enables real-time tracking of flu cases, hospital admissions, and out
 
 The following architecture outlines the integration of AWS services for data streaming, processing, and visualization. The solution enables real-time flu monitoring across New York (NY), New Jersey (NJ), and Pennsylvania (PA).
 
-![System Architecture](https://github.com/LunaticWrath07/cloud/raw/master/diagrams/system_arch.png)
+![System Architecture](https://github.com/LunaticWrath07/cloud/raw/master/diagrams/system%20arch.png)
 
 
 ---
